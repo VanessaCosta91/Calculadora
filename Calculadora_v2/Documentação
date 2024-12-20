@@ -1,0 +1,14 @@
+Calculadora_v2
+
+
+Este projeto apresenta uma calculadora utilizando as bibliotecas Tkinter para a interface gráfica e math para cálculos matemáticos como raiz quadrada. O script permite realizar operações básicas de adição, subtração, multiplicação, divisão, exponenciação, porcentagem e raiz quadrada.
+Operões que a calculadora realiza
+Operações Básicas: Realiza adição, subtração, multiplicação e divisão.
+Potência: Permite calcular potências de números.
+Raiz Quadrada: Calcula a raiz quadrada de um número.
+Porcentagem: Calcula a porcentagem de um número.
+Limpar e Apagar: Permite apagar um caractere ou limpar todo o campo de entrada.
+
+Como Executar
+
+É necessario ter instalado Python 3.x, Tkinter, Biblioteca math.
